@@ -2,6 +2,7 @@
 
 Group: CovidCats
 
+
 Members: Aldo, Andrew, Araz, Jane & Veohnti
 
 Project: Extract – Transform – Load
@@ -18,3 +19,4 @@ Additionally, population data from all countries/regions was pulled from the Wor
 We used an API from GitHub's Developer Tools to pull the most current daily data so that our extracted, cleaned dataframes and loaded tables could automatically update each time the ETL process was performed.
 
 Find our finalnotebook2.ipynb to look at the ETL process.
+
